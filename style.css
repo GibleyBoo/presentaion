@@ -1,0 +1,12 @@
+body {
+	font-size: 2em;
+	font-family: 'Open Sans' , sans-serif;
+}
+.rubriik {
+	color: grey;
+
+}
+#content {
+	margin: 0 auto;
+	width: 80%;
+}
